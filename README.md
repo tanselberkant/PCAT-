@@ -1,5 +1,5 @@
 # PCAT-
-Just a basic Photo Application that you can Add - Delete - Update Photo. It has cool Pagination as well
+Just a basic Photo Application that you can Add - Delete - Update Photo. It has a cool Pagination as well
 
 Here you can review the application https://pcatapp-tansel.herokuapp.com/
 
